@@ -1,1 +1,1 @@
-! demo.jpeg
+![Demo interface](demo.jpeg)
